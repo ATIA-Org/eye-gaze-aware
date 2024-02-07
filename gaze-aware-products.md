@@ -28,3 +28,4 @@
 | Name | Marked Gaze Aware | Publishes Installed | Invocable | Version | Notes |
 | --- | --- | --- | --- | --- | --- |
 | Ability Drive | Yes | No | Yes | 2304.* + | |
+| SmartBox Look Lab | Yes | ? | ? | ? | |
